@@ -6,3 +6,5 @@
 3. Frappe
 4. Mocha
 5. [Ice Tea](recipes/ice_tea.txt)
+6. [Signature Latte](recipes/signature_latte.txt)
+7. 
